@@ -1,2 +1,1 @@
-# This is git tutorial by Ajay Kushwaha.
-
+# Thisis my first readme file.
